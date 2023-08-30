@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">MiPrimeraAppSer</string>
+    <string name="Latom_txt" />
+    <string name="ew" translatable="false" />
+    <string name="mensaje_txt">Latom</string>
+    <string name="Radiactive_image">Imagen de radiaccion</string>
+</resources>
